@@ -1,3 +1,3 @@
 # practical_14_online
 
-A new Flutter project.
+In this task, your are to add a button to reset the ListView and also add ensure same words cannot be added twice
